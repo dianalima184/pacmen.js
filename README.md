@@ -1,2 +1,9 @@
-# pacmen.js
-This project is based on the 1980's popular arcade game called Pacman.But in this case it would be called Pacmen.There will be a few image files and html. As well javascript to accompany it.
+# pacmen
+Factory for making pacmen
+You are given a starter.html code.
+When button "make one" is pressed you need to complete the code 
+to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
+You also need to make each pacman bounce off any wall it hits. 
+Start by getting at least one pacman positioned and viewable. 
+
+<img src="PacMan1.png">
